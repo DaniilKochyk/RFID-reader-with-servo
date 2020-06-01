@@ -2,4 +2,4 @@
 
 Najpierw zainstalować bibliotekę
 
-W kodzie wszystko jest opisane (ale w języku rosyjskim)
+W kodzie wszystko jest opisane (w języku rosyjskim)
